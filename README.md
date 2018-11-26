@@ -2,7 +2,7 @@
 
 Sample project for issue:
 
-##Repro Steps:
+#### Repro Steps:
 1. Create a migration: `dotnet ef migrations add initial`
 2. Run the migration: `dotnet ef database update`
 3. You will get the following error message: "The property 'AccountId' on entity type 'MigrationBugRepro.Models.Account.MainAddress#MigrationBugRepro.Models.Address' cannot be marked as nullable/optional because it has been included in a key {'AccountId'}."
