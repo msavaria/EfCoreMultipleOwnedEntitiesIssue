@@ -1,6 +1,6 @@
 # EfCoreMultipleOwnedEntitiesIssue
 
-Sample project for EFCore issue #14010
+Sample project for [EFCore issue #14010](https://github.com/aspnet/EntityFrameworkCore/issues/14010)
 
 #### Repro Steps:
 1. Create a migration: `dotnet ef migrations add initial`
