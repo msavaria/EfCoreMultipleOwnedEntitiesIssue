@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigrationBugRepro", "MigrationBugRepro\MigrationBugRepro.csproj", "{366927DB-E33F-4680-8616-4CFC3F09CD15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigrationBugRepro", "MigrationBugRepro.csproj", "{366927DB-E33F-4680-8616-4CFC3F09CD15}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
